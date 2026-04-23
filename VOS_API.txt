@@ -1,0 +1,30 @@
+Modifier le fichier .env avec le Bloc-notes et remplir :
+GEMINI_API_KEY, YOUTUBE_API_KEY, HA_TOKEN, HA_URL, XAI_API_KEY, SERPAPI_API_KEY, GROQ_API_KEY.
+
+
+
+-----------------
+
+🔑 Liste des API + sites officiels
+Gemini (Google AI)
+→ Google
+https://ai.google.dev/
+YouTube Data API
+→ Google
+https://developers.google.com/youtube/v3
+Home Assistant (token longue durée)
+→ Home Assistant
+https://www.home-assistant.io/
+xAI (API Grok)
+→ xAI
+https://x.ai/
+SerpAPI (Google search scraping API)
+→ SerpAPI
+https://serpapi.com/
+Groq (LLM ultra rapide)
+→ Groq
+https://console.groq.com/
+
+---------------------
+
+www.techenclair.fr

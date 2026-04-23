@@ -1,0 +1,18 @@
+{
+  "prenom_femme": {
+    "valeur": "Julie",
+    "timestamp": "15/04/2026 07:44"
+  },
+  "prenoms_enfants": {
+    "valeur": "Esteban, Nathan",
+    "timestamp": "15/04/2026 07:44"
+  },
+  "ville": {
+    "valeur": "Amilly",
+    "timestamp": "15/04/2026 07:45"
+  },
+  "anniversaire_julie": {
+    "valeur": "2 octobre 1990",
+    "timestamp": "15/04/2026 07:50"
+  }
+}
