@@ -74,6 +74,6 @@ echo 1. Ouvre le fichier '.env' avec le bloc-notes.
 echo 2. Ajoute tes cles API (Gemini, OpenAI, etc.).
 echo 3. Lance 'DEMARRER_JARVIS.bat'.
 echo.
-echo Retrouve nous sur www.techenclair.fr
+echo 
 echo ======================================================
 pause
